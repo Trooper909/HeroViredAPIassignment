@@ -18,7 +18,7 @@ List of http verbs with compatible paths.
 Additional Reading
 -API url: https://heroviredapi.herokuapp.com/courses?appid=gfchvjbknafsrfwwwwryeyerh
 
--github url: 
+-github url: https://github.com/Trooper909/HeroViredAPIassignment
 
 -note the current test database contains 10 documents. courseId ranges from 1 to 10. 
 
