@@ -15,4 +15,12 @@ List of http verbs with compatible paths.
         -put: updates a course in the courses collection based on the courseId.
         -delete: deletes a course in the courses collection based on the courseId.
 
-Note: The API key would be provided in private.
+Additional Reading
+-API url: https://heroviredapi.herokuapp.com/courses?appid=gfchvjbknafsrfwwwwryeyerh
+
+-github url: 
+
+-note the current test database contains 10 documents. courseId ranges from 1 to 10. 
+
+Tools for testing API
+-Postman
