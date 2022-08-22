@@ -1,0 +1,18 @@
+API paths 
+
+
+List of http verbs with compatible paths.
+
+1. path:/courses
+    -compatible http verbs
+        -get: gets all the courses from the courses collection
+        -post: adds a course in the courses collection.
+
+2. path:/courses/[path parameter: courseId]
+    -courseId: refers to the numeric representation for course identification.  
+    -compatible http verbs
+        -get: gets the course with specifc courseId from the courses collection
+        -put: updates a course in the courses collection based on the courseId.
+        -delete: deletes a course in the courses collection based on the courseId.
+
+Note: The API key would be provided in private.
